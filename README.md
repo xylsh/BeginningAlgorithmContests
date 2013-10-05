@@ -1,4 +1,5 @@
-Algorithm_Getting_Started
+Beginning_Algorithm_Contests
 =========================
 
-《算法竞赛入门经典（刘汝佳）》章节习题
+丛书《算法艺术与信息学竞赛》系列——
+《算法竞赛入门经典（刘汝佳）》习题答案
